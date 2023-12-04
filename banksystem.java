@@ -120,7 +120,7 @@ public class BankingApp {
                         }  
                         break;  
                     case 5:  
-                        System.out.println("bye..!!See you soon...");  
+                        System.out.println("bye..!! See you soon... Thank you ");  
                         break;  
                 }  
             }  
